@@ -14,7 +14,7 @@ w,a,s,d 와 space bar 를 이용한 미로찾기게임!
 ## 게임 화면 
 
 ## 메인화면 
--사진
+![동주 메인화면](https://github.com/user-attachments/assets/5fce5c7b-d425-4aad-ad97-0558fc56ebd5)
 
 - 게임의 시작인 메인화면의 로고를 이름을 본따 dongjoo 를 만들었습니다.
 - 게임시작, 게임 정보 , 종료를 space bar로 선택할 수 있고
